@@ -1,0 +1,7 @@
+#linux file
+.idea
+__pycache__
+
+#vitual env
+
+venv
