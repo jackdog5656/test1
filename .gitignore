@@ -3,5 +3,10 @@
 __pycache__
 
 #vitual env
-
 venv
+
+#database
+db.sqlite3
+
+#migrations
+blog/migrations
